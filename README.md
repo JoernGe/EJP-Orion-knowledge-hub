@@ -1,1 +1,3 @@
-# EJP-Orion-knowledge-hub
+# EJP Orion knowledge hub
+## Inventories on public health surveillance, animal health surveillance, feed & food and literature
+The ORION project aims at establishing and strengthening inter-institutional collaboration and transdisciplinary knowledge transfer in the area of surveillance data integration and interpretation, along the One Health (OH) objective of improving health and wellbeing. This will be achieved through an interdisciplinary collaboration of 13 veterinary and/or public health institutes from 7 European countries. These agencies are committed to adopt best practice One Health Surveillance (OHS) solutions (guidelines, methods, tools and knowledge). Specifically this project will create:
