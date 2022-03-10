@@ -11,17 +11,15 @@ You can vind the app here: https://shiny.fli.de/ife-apps/EJPOrion_WP2Epi/
 
 
 # Literature
-Matthias Filter, Tasja Buschhardt, Fernanda Dórea, Estibaliz Lopez de Abechuco, Taras Günther, Esther M. Sundermann, Jörn Gethmann, Johanna Dups-Bergmann, Karin Lagesen, Johanne Ellis-Iversen,   
-One Health Surveillance Codex: promoting the adoption of One Health solutions within and across European countries,
-One Health,
-Volume 12,
-2021,
-100233,
-ISSN 2352-7714,    
-https://doi.org/10.1016/j.onehlt.2021.100233.
+*Matthias Filter, Tasja Buschhardt, Fernanda Dórea, Estibaliz Lopez de Abechuco, Taras Günther, Esther M. Sundermann, Jörn Gethmann, Johanna Dups-Bergmann, Karin Lagesen, Johanne Ellis-Iversen*    
+    
+**One Health Surveillance Codex: promoting the adoption of One Health solutions within and across European countries**,    
+    
+One Health, Volume 12, 2021, 100233, ISSN 2352-7714,    
+https://doi.org/10.1016/j.onehlt.2021.100233.    
 (https://www.sciencedirect.com/science/article/pii/S2352771421000239)    
 **Abstract:** Cross-sector communication, collaboration and knowledge exchange are still significant challenges for practical adoption of the One Health paradigm. To address these needs the “One Health Surveillance Codex” (OHS Codex) was established to provide a framework for the One Health community to continuously share practical solutions (e.g. tools, technical resources, guidance documents and experiences) applicable for national and international stakeholders from different One Health Surveillance sectors. Currently, the OHS Codex provides a number of resources that support the adoption of the OH paradigm in areas linked to the harmonization and interpretation of surveillance data. The OHS Codex framework comprises four high-level “action” principles, which respectively support collaboration, knowledge exchange, data interoperability, and dissemination. These principles match well with priority areas identified in the “Tripartite Guide to Addressing Zoonotic Diseases in Countries” published by WHO, FAO and OIE. Within each of the four principles, the OHS Codex provides a collection of useful resources as well as pointers to success stories for the application of these resources. As the OHS Codex is designed as an open community framework, it will continuously evolve and adapt to the needs of the OH community in the future.    
-Keywords: Knowledge base; Collaboration; Dissemination; Mutual understanding; Data interoperability
+**Keywords:** Knowledge base; Collaboration; Dissemination; Mutual understanding; Data interoperability
 
 # Links
 ## One Health Surveillance Codex Document: The Knowledge Integration Platform!
@@ -30,3 +28,8 @@ https://oh-surveillance-codex.readthedocs.io/en/latest/index.html
 ## The Knowledge principle: Improving the OHS knowledge base
 Link to the App of this code
 https://oh-surveillance-codex.readthedocs.io/en/latest/3-knowledge-principle.html
+
+## Orion Project
+Description of the Orion Project
+https://onehealthejp.eu/jip-orion/
+
