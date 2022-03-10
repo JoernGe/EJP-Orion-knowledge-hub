@@ -5,9 +5,17 @@ The ORION project aims at establishing and strengthening inter-institutional col
 - an OHS Knowledge Base - A cross-domain inventory of currently available data sources, methods / algorithms / tools, that support One Health surveillance data generation, data analysis, modelling and decision Support. The Input is the combined efforts of the One Health knowledge bases EPI, Integration and NGS
 - an OHEJP Glossary - The glossary is a joint effort between JIP ORION, JIP COHESIVE and JRP NOVA. The OHEJP Glossary has 3 main functionalities. First the collection of One Health (OH) related terms and definitions in the sectors public health, animal health and food safety. Second, highlighting similarities and differences of terms and definitions between the sectors. Finally an infrastructure to reference, search and filter terms and definitions. https://aginfra.d4science.org/web/orionknowledgehub/catalogue
 
-## The code will create a shiny app to explore the different inventories
-With this example code you can create an app to create inventories on public health, animal heatlth and feed and food surveillance systems.  
-You can vind the app here: https://shiny.fli.de/ife-apps/EJPOrion_WP2Epi/
+## Shiny App
+The code will create a shiny app to explore the different inventories.   
+With this example code you can create an example app to create inventories on public health, animal heatlth and feed and food surveillance systems.  
+You can run the app by using the following commands in RStudio:
+```
+library(shiny)
+runGitHub("EJP-Orion-knowledge-hub", "JoernGe", subdir = "/R/Inventory_Example/")
+```
+In this example app we did not include the logo of FLI or the project and the number of surveillance systems is limited.
+
+You can find the full app at: https://shiny.fli.de/ife-apps/EJPOrion_WP2Epi/
 
 
 # Literature
